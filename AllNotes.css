@@ -1,0 +1,19 @@
+body{
+    background-color: aqua;
+}
+.mainbody{
+    height:100%;
+    width:100%;
+    align-items: center;
+    margin-top: 5%;
+    padding-left: 35%;
+}
+
+
+.card-body{
+    background-color: aquamarine;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
+}
+.card w-50{
+    padding-left: 50%;
+}
